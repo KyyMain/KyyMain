@@ -9,7 +9,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="programming" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 <br><br>
 
 - 🔭 I am a student at **Pelita Bangsa University**
@@ -30,24 +30,18 @@
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
-- Language
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
 
-- Tools
+- Tools & Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+   <img src="https://skillicons.dev/icons?i=python" />
+   <img src="https://skillicons.dev/icons?i=java" />
   </a>
 </p>
 
 <br/>
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
 <p align="right" > Eky Fikri Yamansyah</a></p>
