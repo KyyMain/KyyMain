@@ -9,7 +9,7 @@
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 
-<img align="right" alt="programming" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" alt="programming" width="500" src="https://th.bing.com/th/id/OIG.bmEZl7kCi.IqNlvdckJi?w=1024&h=1024&rs=1&pid=ImgDetMain">
 <br><br>
 
 - 🔭 I am a student at **Pelita Bangsa University**
