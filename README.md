@@ -14,11 +14,8 @@
 
 - 🔭 I am a student at **Pelita Bangsa University**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **ekyfikriyamansyah@gmail.com**
-
-- ⚡ Fun fact **I Love Freya JKT48**
 
 <br>
 <h3 align="left">Connect with me:</h3>
