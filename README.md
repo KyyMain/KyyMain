@@ -34,6 +34,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
    <img src="https://skillicons.dev/icons?i=python" />
    <img src="https://skillicons.dev/icons?i=java" />
+   <img src="https://skillicons.dev/icons?i=c++" />
   </a>
 </p>
 
