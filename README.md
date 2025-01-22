@@ -1,4 +1,4 @@
-<img  alt="image" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png" width="100%" height="180" />
+<img  alt="image" src="https://github.com/KyyMain/pertemuan7/blob/main/dokumentasi/KyyMain.gif" width="100%" height="180" />
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eky Fikri Yamansyah </h1>
 <p align="center">
