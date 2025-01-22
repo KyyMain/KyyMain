@@ -2,7 +2,7 @@
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Eky Fikri Yamansyah </h1>
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=KyyMain&label=Profile%20views&color=0e75b6&style=flat" alt="KyyMain" />
+ <img src="https://komarev.com/ghpvc/?username=KyyMain&label=Profile%20views&color=FF28FF&style=flat" alt="KyyMain" />
 </p>
 <h3>Saya seorang Mahasiswa yang memiliki ketertarikan dalam Cyber Security dan Machine Learning</h3>
 
