@@ -24,6 +24,7 @@ Want to Connect? [Instagram](https://www.instagram.com/eky_fikri_/).
    <img src="https://skillicons.dev/icons?i=python" />
    <img src="https://skillicons.dev/icons?i=java" />
    <img src="https://skillicons.dev/icons?i=cpp" />
+   <img src="https://skillicons.dev/icons?i=php" />
    <img src="https://skillicons.dev/icons?i=javascript" />
    <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
