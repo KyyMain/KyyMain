@@ -20,11 +20,12 @@ Want to Connect? [Instagram](https://www.instagram.com/eky_fikri_/).
 ## 🚀 Skills and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
    <img src="https://skillicons.dev/icons?i=python" />
    <img src="https://skillicons.dev/icons?i=java" />
    <img src="https://skillicons.dev/icons?i=cpp" />
    <img src="https://skillicons.dev/icons?i=php" />
+   <img src="https://skillicons.dev/icons?i=figma" />
    <img src="https://skillicons.dev/icons?i=javascript" />
    <img src="https://skillicons.dev/icons?i=firebase" />
   </a>
