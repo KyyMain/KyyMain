@@ -4,9 +4,9 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=KyyMain&label=Profile%20views&color=FF28FF&style=flat" alt="KyyMain" />
 </p>
-<h3>Saya seorang Mahasiswa yang memiliki ketertarikan dalam Cyber Security dan Machine Learning</h3>
+<h3>Interested in Cyber Security and Artificial Intelegence</h3>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/eky_fikri_/) ku ya.
+Want to Connect? [Instagram](https://www.instagram.com/eky_fikri_/).
 
 <br/>
 
