@@ -109,9 +109,6 @@ me.say_hi()
   <a href="https://github.com/KyyMain/JadwalKu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyyMain&repo=Jadwalku&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" alt="Jadwalku" />
   </a>
-  <a href="https://github.com/KyyMain/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyyMain&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" alt="Project 2" />
-  </a>
 </div>
 
 ---
@@ -175,14 +172,6 @@ me.say_hi()
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
 </div>
 
 ---
