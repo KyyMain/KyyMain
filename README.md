@@ -115,6 +115,11 @@ me.say_hi()
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyyMain&repo=TypeWise&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" alt="TypeWise" />
   </a>
 </div>
+<div align="center">
+  <a href="https://github.com/KyyMain/RBLX-Syndicate-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KyyMain&repo=RBLX-Syndicate-Bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" alt="RBLX-Syndicate-Bot" />
+  </a>
+</div>
 ---
 
 ## 🎯 Current Focus
