@@ -138,10 +138,6 @@ me.say_hi()
 
 ## 📊 Coding Activity
 
-<div align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime" />
-</div>
-
 ```text
 🌞 Morning    ██████████░░░░░░░░░░░░░   42.0% 
 🌆 Daytime    ████████████████░░░░░░░   68.0% 
