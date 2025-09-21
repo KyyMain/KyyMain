@@ -96,8 +96,9 @@ me.say_hi()
 ### 🎖️ GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=KyyMain&theme=radical&no-bg=true&no-frame=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 
-### 📜 Professional Certifications
-[![CISCO Networking Basic](https://img.shields.io/badge/CISCO-Networking%20Basic-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/6aa7fd3b-4e0c-4bd6-be5e-2d6d8893820a)
+### 📜 My Certifications
+[![CISCO Networking Basic](https://img.shields.io/badge/CISCO-Networking%20Basic-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://cdn.discordapp.com/attachments/856551229572513794/1419330945907163166/networkcert.pdf?ex=68d15e73&is=68d00cf3&hm=f65726e101a3a600ecba54ba7d28a68eeea291bc20d01d76256c35c5765f132a&)
+[![CISCO Introduction to Cybersecurity](https://img.shields.io/badge/CISCO-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://cdn.discordapp.com/attachments/856551229572513794/1419330946183991327/cysec.pdf?ex=68d15e73&is=68d00cf3&hm=eef1b7bb36752998d6624b26be31d3c4ced46dfad8cea9e9757f32a2bbd68416&)
 
 </div>
 
